@@ -1,4 +1,4 @@
-package org.stuff.utils;
+package org.stuff.exception.utils;
 
 import java.util.UUID;
 
